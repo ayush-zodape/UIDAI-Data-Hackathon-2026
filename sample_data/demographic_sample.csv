@@ -1,0 +1,31 @@
+date,state,district,pincode,demo_age_5_17,demo_age_17_
+01-01-2024,Maharashtra,Mumbai,400001,280,520
+01-01-2024,Maharashtra,Pune,411001,250,420
+01-01-2024,Maharashtra,Nagpur,440001,160,300
+01-01-2024,Karnataka,Bangalore,560001,380,680
+01-01-2024,Karnataka,Mysore,570001,190,360
+01-01-2024,Tamil Nadu,Chennai,600001,350,620
+01-01-2024,Tamil Nadu,Coimbatore,641001,220,400
+01-01-2024,Delhi,New Delhi,110001,480,850
+01-01-2024,Uttar Pradesh,Lucknow,226001,280,500
+01-01-2024,Uttar Pradesh,Varanasi,221001,240,440
+15-01-2024,Maharashtra,Mumbai,400001,290,540
+15-01-2024,Maharashtra,Pune,411001,260,440
+15-01-2024,Maharashtra,Nagpur,440001,165,310
+15-01-2024,Karnataka,Bangalore,560001,390,700
+15-01-2024,Karnataka,Mysore,570001,195,370
+15-01-2024,Tamil Nadu,Chennai,600001,360,640
+15-01-2024,Tamil Nadu,Coimbatore,641001,225,410
+15-01-2024,Delhi,New Delhi,110001,490,870
+15-01-2024,Uttar Pradesh,Lucknow,226001,290,520
+15-01-2024,Uttar Pradesh,Varanasi,221001,245,450
+01-02-2024,Maharashtra,Mumbai,400001,300,560
+01-02-2024,Maharashtra,Pune,411001,270,460
+01-02-2024,Maharashtra,Nagpur,440001,170,320
+01-02-2024,Karnataka,Bangalore,560001,400,720
+01-02-2024,Karnataka,Mysore,570001,200,380
+01-02-2024,Tamil Nadu,Chennai,600001,370,660
+01-02-2024,Tamil Nadu,Coimbatore,641001,230,420
+01-02-2024,Delhi,New Delhi,110001,500,890
+01-02-2024,Uttar Pradesh,Lucknow,226001,300,540
+01-02-2024,Uttar Pradesh,Varanasi,221001,250,460

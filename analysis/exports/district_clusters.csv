@@ -1,0 +1,114 @@
+state,district,bli,cluster,cluster_name
+100000,100000,0.9999990000010001,1,High Risk
+Andhra Pradesh,Spsr Nellore,0.9999999985974755,1,High Risk
+Andhra Pradesh,Visakhapatanam,0.9999999642857155,1,High Risk
+Assam,Bajali,0.1428571224489825,0,High Performers
+Assam,Dima Hasao,0.9019607754709729,1,High Risk
+Assam,Sivasagar,0.9999999911504426,1,High Risk
+Assam,Sribhumi,0.0,0,High Performers
+Assam,Tamulpur District,0.49999998437500054,1,High Risk
+Bihar,Aurangabad(Bh),0.4920634842529606,1,High Risk
+Bihar,Bhabua,0.7647058373702448,1,High Risk
+Bihar,Monghyr,0.7499999625000018,1,High Risk
+Bihar,Pashchim Champaran,0.9965536511739425,2,Critical Alert
+Bihar,Purba Champaran,0.5937499907226564,1,High Risk
+Bihar,Purbi Champaran,0.999999999900705,2,Critical Alert
+Bihar,Samstipur,0.6923076745562136,1,High Risk
+Bihar,Sheikpura,0.6874999570312527,1,High Risk
+Chhattisgarh,Gaurella Pendra Marwahi,0.9999999965517241,1,High Risk
+Chhattisgarh,Manendragarh–Chirmiri–Bharatpur,0.564356430055877,1,High Risk
+Delhi,North East   *,0.0,0,High Performers
+Goa,Tiswadi,0.0,0,High Performers
+Gujarat,Ahmadabad,0.5963699219548964,1,High Risk
+Gujarat,Banas Kantha,0.9912176241453977,2,Critical Alert
+Gujarat,Dang,0.9999999944134078,1,High Risk
+Gujarat,Dohad,0.706542567655825,2,Critical Alert
+Gujarat,Panch Mahals,0.9549549528041555,1,High Risk
+Gujarat,Sabar Kantha,0.9531772567281126,1,High Risk
+Gujarat,Surendranagar,0.9307432416710418,1,High Risk
+Haryana,Akhera,0.0,0,High Performers
+Haryana,Gurugram,0.9999999984,1,High Risk
+Haryana,Jhajjar *,0.9999990000010001,1,High Risk
+Haryana,Nuh,0.9999999953051644,1,High Risk
+Jammu & Kashmir,Bandipur,0.0,0,High Performers
+Jammu & Kashmir,Kargil,0.9999990000010001,1,High Risk
+Jammu & Kashmir,Kupwara,0.9999990000010001,1,High Risk
+Jammu & Kashmir,Udhampur,0.0,0,High Performers
+Jammu And Kashmir,?,0.0,0,High Performers
+Jammu And Kashmir,Shopian,0.9999999880952383,1,High Risk
+Jharkhand,East Singhbum,0.9999999981684982,1,High Risk
+Karnataka,Bengaluru Rural,0.9931506835710264,1,High Risk
+Karnataka,Bengaluru South,0.8749999950284091,1,High Risk
+Karnataka,Bengaluru Urban,0.9999999998604716,2,Critical Alert
+Karnataka,Ramanagara,0.999999958333335,1,High Risk
+Madhya Pradesh,Ashoknagar,0.9999999992441421,1,High Risk
+Maharashtra,Ahilyanagar,0.0,0,High Performers
+Maharashtra,Ahmednagar,0.9999999936708861,1,High Risk
+Maharashtra,Hingoli *,0.0,0,High Performers
+Maharashtra,Nandurbar *,0.5454545289256204,1,High Risk
+Manipur,Pherzawl,0.7777776913580343,1,High Risk
+Meghalaya,East Garo Hills,0.7116473039286126,1,High Risk
+Meghalaya,East Jaintia Hills,0.14017895179370304,0,High Performers
+Meghalaya,East Khasi Hills,0.3942927699002406,3,Moderate Risk
+Meghalaya,Eastern West Khasi Hills,0.9911504380922547,1,High Risk
+Meghalaya,Kamrup,0.9999999859154932,1,High Risk
+Meghalaya,North Garo Hills,0.5658536582298895,1,High Risk
+Meghalaya,Ri Bhoi,0.3880629644975813,3,Moderate Risk
+Meghalaya,South Garo Hills,0.7595356547431444,1,High Risk
+Meghalaya,West Jaintia Hills,0.24015042975642004,3,Moderate Risk
+Meghalaya,West Khasi Hills,0.5964180568453854,3,Moderate Risk
+Mizoram,Khawzawl,0.1428571224489825,0,High Performers
+Nagaland,Noklak,0.08050847423513359,0,High Performers
+Nagaland,Shamator,0.8416289554677423,1,High Risk
+Odisha,Anugal,0.9999990000010001,1,High Risk
+Odisha,Nabarangpur,0.9999999902912623,1,High Risk
+Orissa,Anugul  *,0.0,0,High Performers
+Orissa,Baudh,0.0,0,High Performers
+Orissa,Kendrapara *,0.0,0,High Performers
+Orissa,Khordha  *,0.0,0,High Performers
+Orissa,Nabarangapur,0.9999990000010001,1,High Risk
+Orissa,Nuapada,0.0,0,High Performers
+Orissa,Sundergarh,0.9999990000010001,1,High Risk
+Pondicherry,Cuddalore,0.0,0,High Performers
+Punjab,S.A.S Nagar,0.9999999939024391,1,High Risk
+Rajasthan,Balotra,0.0,0,High Performers
+Rajasthan,Deeg,0.8372092828555981,1,High Risk
+Rajasthan,Jalore,0.98360655200215,1,High Risk
+Rajasthan,Phalodi,0.0,0,High Performers
+Rajasthan,Salumbar,0.0,0,High Performers
+Sikkim,Mangan,0.99999950000025,1,High Risk
+Sikkim,Namchi,0.9999998333333611,1,High Risk
+Tamil Nadu,Kanchipuram,0.988764033834112,1,High Risk
+Tamil Nadu,Namakkal   *,0.9999990000010001,1,High Risk
+Tamil Nadu,Tiruvarur,0.0,0,High Performers
+Tamil Nadu,Tuticorin,0.0,0,High Performers
+Telangana,Medchal Malkajgiri,0.9999999962264151,1,High Risk
+Telangana,Ranga Reddy,0.9999999892473119,1,High Risk
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,0.9999999929078015,1,High Risk
+Uttar Pradesh,Barabanki,0.16958424489104568,0,High Performers
+Uttar Pradesh,Bulandshahar,0.14492753413148501,0,High Performers
+Uttar Pradesh,Chandauli *,0.0,0,High Performers
+Uttar Pradesh,Gautam Buddha Nagar *,0.0,0,High Performers
+Uttar Pradesh,Jyotiba Phule Nagar,0.09090908677685969,0,High Performers
+Uttar Pradesh,Kushi Nagar,0.9999999987129987,1,High Risk
+Uttar Pradesh,Mahoba *,0.0,0,High Performers
+Uttar Pradesh,Raebareli,0.0,0,High Performers
+Uttar Pradesh,Shravasti,0.9999999993630573,1,High Risk
+Uttar Pradesh,Siddharth Nagar,0.9999999996133024,1,High Risk
+Uttaranchal,Almora,0.0,0,High Performers
+Uttaranchal,Garhwal,0.0,0,High Performers
+West  Bengal,Hooghly,0.16666663888889352,0,High Performers
+West Bangal,South 24 Parganas,0.0,0,High Performers
+West Bengal,24 Paraganas North,0.9999999995931652,1,High Risk
+West Bengal,24 Paraganas South,0.9999999903846155,1,High Risk
+West Bengal,Bally Jagachha,0.0,0,High Performers
+West Bengal,Coochbehar,0.9999999995208434,1,High Risk
+West Bengal,Dinajpur Dakshin,0.99999999609375,1,High Risk
+West Bengal,Dinajpur Uttar,0.9999999997941963,2,Critical Alert
+West Bengal,Domjur,0.0,0,High Performers
+West Bengal,East Midnapur,0.0,0,High Performers
+West Bengal,Hawrah,0.0,0,High Performers
+West Bengal,Medinipur West,0.9999999966666667,1,High Risk
+West Bengal,South Dumdum(M),0.0,0,High Performers
+West Bengal,West Medinipur,0.0,0,High Performers
+Westbengal,Howrah,0.0,0,High Performers

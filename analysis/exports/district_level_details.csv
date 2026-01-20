@@ -1,0 +1,114 @@
+State,District,BLI_Score,Risk_Level,Update_Gap,Enrollments_5_17,Updates_5_17,Num_Pincodes
+100000,100000,0.9999990000010001,Critical,1.0,1.0,0.0,1
+Andhra Pradesh,Spsr Nellore,0.9999999985974755,Critical,713.0,713.0,0.0,14
+Andhra Pradesh,Visakhapatanam,0.9999999642857155,Critical,28.0,28.0,0.0,1
+Assam,Bajali,0.1428571224489825,Medium,1.0,7.0,6.0,10
+Assam,Dima Hasao,0.9019607754709729,Critical,92.0,102.0,10.0,6
+Assam,Sivasagar,0.9999999911504426,Critical,113.0,113.0,0.0,3
+Assam,Sribhumi,0.0,Low,0.0,40.0,40.0,26
+Assam,Tamulpur District,0.49999998437500054,High,16.0,32.0,16.0,6
+Bihar,Aurangabad(Bh),0.4920634842529606,High,31.0,63.0,32.0,25
+Bihar,Bhabua,0.7647058373702448,Critical,13.0,17.0,4.0,10
+Bihar,Monghyr,0.7499999625000018,Critical,15.0,20.0,5.0,9
+Bihar,Pashchim Champaran,0.9965536511739425,Critical,10699.0,10736.0,37.0,17
+Bihar,Purba Champaran,0.5937499907226564,Critical,38.0,64.0,26.0,35
+Bihar,Purbi Champaran,0.999999999900705,Critical,10071.0,10071.0,0.0,12
+Bihar,Samstipur,0.6923076745562136,Critical,27.0,39.0,12.0,35
+Bihar,Sheikpura,0.6874999570312527,Critical,11.0,16.0,5.0,6
+Chhattisgarh,Gaurella Pendra Marwahi,0.9999999965517241,Critical,290.0,290.0,0.0,3
+Chhattisgarh,Manendragarh–Chirmiri–Bharatpur,0.564356430055877,Critical,57.0,101.0,44.0,12
+Delhi,North East   *,0.0,Low,0.0,0.0,0.0,1
+Goa,Tiswadi,0.0,Low,0.0,0.0,0.0,2
+Gujarat,Ahmadabad,0.5963699219548964,Critical,1380.0,2314.0,934.0,72
+Gujarat,Banas Kantha,0.9912176241453977,Critical,6659.0,6718.0,59.0,27
+Gujarat,Dang,0.9999999944134078,Critical,179.0,179.0,0.0,2
+Gujarat,Dohad,0.706542567655825,Critical,5162.0,7306.0,2144.0,15
+Gujarat,Panch Mahals,0.9549549528041555,Critical,424.0,444.0,20.0,23
+Gujarat,Sabar Kantha,0.9531772567281126,Critical,1140.0,1196.0,56.0,36
+Gujarat,Surendranagar,0.9307432416710418,Critical,551.0,592.0,41.0,23
+Haryana,Akhera,0.0,Low,0.0,0.0,0.0,1
+Haryana,Gurugram,0.9999999984,Critical,625.0,625.0,0.0,4
+Haryana,Jhajjar *,0.9999990000010001,Critical,1.0,1.0,0.0,1
+Haryana,Nuh,0.9999999953051644,Critical,213.0,213.0,0.0,2
+Jammu & Kashmir,Bandipur,0.0,Low,0.0,0.0,0.0,2
+Jammu & Kashmir,Kargil,0.9999990000010001,Critical,1.0,1.0,0.0,2
+Jammu & Kashmir,Kupwara,0.9999990000010001,Critical,1.0,1.0,0.0,4
+Jammu & Kashmir,Udhampur,0.0,Low,0.0,0.0,0.0,5
+Jammu And Kashmir,?,0.0,Low,0.0,0.0,0.0,1
+Jammu And Kashmir,Shopian,0.9999999880952383,Critical,84.0,84.0,0.0,1
+Jharkhand,East Singhbum,0.9999999981684982,Critical,546.0,546.0,0.0,4
+Karnataka,Bengaluru Rural,0.9931506835710264,Critical,725.0,730.0,5.0,6
+Karnataka,Bengaluru South,0.8749999950284091,Critical,154.0,176.0,22.0,18
+Karnataka,Bengaluru Urban,0.9999999998604716,Critical,7167.0,7167.0,0.0,47
+Karnataka,Ramanagara,0.999999958333335,Critical,24.0,24.0,0.0,1
+Madhya Pradesh,Ashoknagar,0.9999999992441421,Critical,1323.0,1323.0,0.0,3
+Maharashtra,Ahilyanagar,0.0,Low,0.0,1.0,1.0,24
+Maharashtra,Ahmednagar,0.9999999936708861,Critical,158.0,158.0,0.0,2
+Maharashtra,Hingoli *,0.0,Low,0.0,0.0,0.0,4
+Maharashtra,Nandurbar *,0.5454545289256204,Critical,18.0,33.0,15.0,17
+Manipur,Pherzawl,0.7777776913580343,Critical,7.0,9.0,2.0,3
+Meghalaya,East Garo Hills,0.7116473039286126,Critical,2389.0,3357.0,968.0,8
+Meghalaya,East Jaintia Hills,0.14017895179370304,Medium,329.0,2347.0,2018.0,5
+Meghalaya,East Khasi Hills,0.3942927699002406,High,5748.0,14578.0,8830.0,30
+Meghalaya,Eastern West Khasi Hills,0.9911504380922547,Critical,224.0,226.0,2.0,2
+Meghalaya,Kamrup,0.9999999859154932,Critical,71.0,71.0,0.0,1
+Meghalaya,North Garo Hills,0.5658536582298895,Critical,1044.0,1845.0,801.0,6
+Meghalaya,Ri Bhoi,0.3880629644975813,High,1775.0,4574.0,2799.0,11
+Meghalaya,South Garo Hills,0.7595356547431444,Critical,1832.0,2412.0,580.0,5
+Meghalaya,West Jaintia Hills,0.24015042975642004,Medium,1341.0,5584.0,4243.0,4
+Meghalaya,West Khasi Hills,0.5964180568453854,Critical,4862.0,8152.0,3290.0,7
+Mizoram,Khawzawl,0.1428571224489825,Medium,1.0,7.0,6.0,2
+Nagaland,Noklak,0.08050847423513359,Low,19.0,236.0,217.0,1
+Nagaland,Shamator,0.8416289554677423,Critical,186.0,221.0,35.0,1
+Odisha,Anugal,0.9999990000010001,Critical,1.0,1.0,0.0,1
+Odisha,Nabarangpur,0.9999999902912623,Critical,103.0,103.0,0.0,1
+Orissa,Anugul  *,0.0,Low,0.0,0.0,0.0,1
+Orissa,Baudh,0.0,Low,0.0,0.0,0.0,6
+Orissa,Kendrapara *,0.0,Low,0.0,0.0,0.0,1
+Orissa,Khordha  *,0.0,Low,0.0,0.0,0.0,1
+Orissa,Nabarangapur,0.9999990000010001,Critical,1.0,1.0,0.0,8
+Orissa,Nuapada,0.0,Low,0.0,0.0,0.0,2
+Orissa,Sundergarh,0.9999990000010001,Critical,1.0,1.0,0.0,3
+Pondicherry,Cuddalore,0.0,Low,0.0,0.0,0.0,2
+Punjab,S.A.S Nagar,0.9999999939024391,Critical,164.0,164.0,0.0,1
+Rajasthan,Balotra,0.0,Low,0.0,0.0,0.0,5
+Rajasthan,Deeg,0.8372092828555981,Critical,36.0,43.0,7.0,13
+Rajasthan,Jalore,0.98360655200215,Critical,180.0,183.0,3.0,13
+Rajasthan,Phalodi,0.0,Low,0.0,0.0,0.0,2
+Rajasthan,Salumbar,0.0,Low,0.0,0.0,0.0,2
+Sikkim,Mangan,0.99999950000025,Critical,2.0,2.0,0.0,2
+Sikkim,Namchi,0.9999998333333611,Critical,6.0,6.0,0.0,6
+Tamil Nadu,Kanchipuram,0.988764033834112,Critical,88.0,89.0,1.0,8
+Tamil Nadu,Namakkal   *,0.9999990000010001,Critical,1.0,1.0,0.0,1
+Tamil Nadu,Tiruvarur,0.0,Low,0.0,0.0,0.0,2
+Tamil Nadu,Tuticorin,0.0,Low,0.0,1.0,1.0,6
+Telangana,Medchal Malkajgiri,0.9999999962264151,Critical,265.0,265.0,0.0,2
+Telangana,Ranga Reddy,0.9999999892473119,Critical,93.0,93.0,0.0,1
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,0.9999999929078015,Critical,141.0,141.0,0.0,1
+Uttar Pradesh,Barabanki,0.16958424489104568,Medium,155.0,914.0,759.0,33
+Uttar Pradesh,Bulandshahar,0.14492753413148501,Medium,10.0,69.0,59.0,29
+Uttar Pradesh,Chandauli *,0.0,Low,0.0,0.0,0.0,1
+Uttar Pradesh,Gautam Buddha Nagar *,0.0,Low,0.0,0.0,0.0,1
+Uttar Pradesh,Jyotiba Phule Nagar,0.09090908677685969,Low,2.0,22.0,20.0,10
+Uttar Pradesh,Kushi Nagar,0.9999999987129987,Critical,777.0,777.0,0.0,1
+Uttar Pradesh,Mahoba *,0.0,Low,0.0,0.0,0.0,1
+Uttar Pradesh,Raebareli,0.0,Low,0.0,3.0,3.0,9
+Uttar Pradesh,Shravasti,0.9999999993630573,Critical,1570.0,1570.0,0.0,2
+Uttar Pradesh,Siddharth Nagar,0.9999999996133024,Critical,2586.0,2586.0,0.0,6
+Uttaranchal,Almora,0.0,Low,0.0,0.0,0.0,1
+Uttaranchal,Garhwal,0.0,Low,0.0,0.0,0.0,1
+West  Bengal,Hooghly,0.16666663888889352,Medium,1.0,6.0,5.0,5
+West Bangal,South 24 Parganas,0.0,Low,0.0,0.0,0.0,1
+West Bengal,24 Paraganas North,0.9999999995931652,Critical,2458.0,2458.0,0.0,23
+West Bengal,24 Paraganas South,0.9999999903846155,Critical,104.0,104.0,0.0,1
+West Bengal,Bally Jagachha,0.0,Low,0.0,0.0,0.0,4
+West Bengal,Coochbehar,0.9999999995208434,Critical,2087.0,2087.0,0.0,8
+West Bengal,Dinajpur Dakshin,0.99999999609375,Critical,256.0,256.0,0.0,2
+West Bengal,Dinajpur Uttar,0.9999999997941963,Critical,4859.0,4859.0,0.0,6
+West Bengal,Domjur,0.0,Low,0.0,0.0,0.0,3
+West Bengal,East Midnapur,0.0,Low,0.0,0.0,0.0,2
+West Bengal,Hawrah,0.0,Low,0.0,3.0,3.0,2
+West Bengal,Medinipur West,0.9999999966666667,Critical,300.0,300.0,0.0,2
+West Bengal,South Dumdum(M),0.0,Low,0.0,0.0,0.0,1
+West Bengal,West Medinipur,0.0,Low,0.0,1.0,1.0,1
+Westbengal,Howrah,0.0,Low,0.0,0.0,0.0,2
